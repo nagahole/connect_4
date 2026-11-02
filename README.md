@@ -5,6 +5,10 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![pygame](https://img.shields.io/badge/pygame-2-green)
 
+<p align="center">
+  <img src="docs/demo.png" alt="Connect 4 game in progress: you play yellow against the red bot" width="480" />
+</p>
+
 ## How the Bot Works
 
 - **Minimax with alpha-beta pruning,** searching 4 moves ahead by default.
